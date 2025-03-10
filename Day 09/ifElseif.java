@@ -18,5 +18,6 @@ public class ifElseif {
             System.out.println("You have obtained A+ Grade.");
         }
 
+        input.close();
     }
 }

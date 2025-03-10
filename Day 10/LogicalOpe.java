@@ -22,5 +22,6 @@ public class LogicalOpe {
         boolean isNumber = (firstNum == secondNum);
         System.out.println(!isNumber);
 
+        input.close();
     }
 }

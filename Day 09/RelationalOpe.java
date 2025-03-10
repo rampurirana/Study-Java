@@ -16,5 +16,7 @@ public class RelationalOpe {
         System.out.println(firstNum + " < " + secondNum + " : " + (firstNum < secondNum)); // less than
         System.out.println(firstNum + " >= " + secondNum + " : " + (firstNum >= secondNum)); // greater than or equal to
         System.out.println(firstNum + " <= " + secondNum + " : " + (firstNum <= secondNum)); // less than or equal to
+
+        input.close();
     }
 }

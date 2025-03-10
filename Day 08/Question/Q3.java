@@ -16,5 +16,7 @@ public class Q3 {
         double result = principle * Math.pow((1 + rate / 100), time);
 
         System.out.println("The compound interest is : " + result + "rs");
+
+        input.close();
     }
 }

@@ -13,5 +13,7 @@ public class add {
         int result = num1 + num2;
 
         System.out.print("The sum of two numbers : " + result);
+
+        add.close();
     }
 }

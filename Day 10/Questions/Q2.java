@@ -15,5 +15,6 @@ public class Q2 {
             System.out.println("Your number is odd");
         }
 
+        input.close();
     }
 }

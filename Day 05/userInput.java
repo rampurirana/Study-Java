@@ -17,5 +17,7 @@ public class userInput {
         // spaces.
 
         System.out.println("My name is " + name);
+
+        input.close();
     }
 }

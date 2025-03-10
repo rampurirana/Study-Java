@@ -12,5 +12,7 @@ public class Q4 {
         double result = (forenheit - 32) * 5 / 9;
 
         System.out.println("The temperature in celcius : " + result);
+
+        input.close();
     }
 }

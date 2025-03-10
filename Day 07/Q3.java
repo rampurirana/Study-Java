@@ -18,5 +18,7 @@ public class Q3 {
         int result = AB + BC + CD + AD;
 
         System.out.println("Perimeter of rectangle is : " + result + "cm");
+
+        input.close();
     }
 }

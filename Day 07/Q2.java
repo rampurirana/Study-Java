@@ -14,5 +14,7 @@ public class Q2 {
         float result = firstNum * secondNum;
 
         System.out.println("Prodict of two floating number : " + result);
+
+        input.close();
     }
 }

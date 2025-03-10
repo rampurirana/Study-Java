@@ -15,5 +15,6 @@ public class ifElse {
             System.out.println("You are not eligible for vote"); // age is less than 18
         }
 
+        input.close();
     }
 }

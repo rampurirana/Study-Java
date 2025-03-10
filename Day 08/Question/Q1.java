@@ -14,6 +14,8 @@ public class Q1 {
         double result = (height * base) / 2;
 
         System.out.println("The area of triangle is : " + result + "cm2");
+
+        input.close();
     }
 
 }

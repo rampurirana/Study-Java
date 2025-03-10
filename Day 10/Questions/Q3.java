@@ -21,5 +21,6 @@ public class Q3 {
             System.out.println("The greatest number is (third number) : " + thirdNum);
         }
 
+        input.close();
     }
 }

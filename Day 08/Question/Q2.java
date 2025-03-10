@@ -16,5 +16,7 @@ public class Q2 {
         double result = (principle * rate * time) / 100;
 
         System.out.println("The interest is : " + result + "rs");
+
+        input.close();
     }
 }
