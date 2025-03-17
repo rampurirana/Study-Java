@@ -6,5 +6,7 @@ public class Q2 {
         System.out.print("Enater your name : ");
         String name = input.nextLine();
         System.out.println("Welcome " + name + " to learning Java.");
+
+        input.close();
     }
 }
