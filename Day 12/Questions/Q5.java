@@ -1,4 +1,4 @@
-// Create a program that shows use of left operator
+// Create a program that shows use of left shift operator
 
 public class Q5 {
     public static void main(String[] args) {
