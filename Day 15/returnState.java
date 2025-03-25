@@ -1,6 +1,6 @@
 // Return statement : Return statement is used to exit from a method and optionally return a value to the caller
 
-public class returnState {
+public class ReturnState {
 
     // 1. Returning a value from a method
     public int add(int a, int b) {
@@ -21,7 +21,7 @@ public class returnState {
     }
 
     public static void main(String[] args) {
-        returnState obj = new returnState();
+        ReturnState obj = new ReturnState();
 
         // Calling add() and printing the returned value
         int sum = obj.add(5, 10);
