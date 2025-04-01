@@ -18,6 +18,7 @@ public class Q1 {
 
         System.out.print("Please enter yout number : ");
         int num = input.nextInt();
+        input.close();
 
         // multi(num;) it is work when the static varibale is defined
 
